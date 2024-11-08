@@ -3,7 +3,8 @@ Trabalho de Algoritmos - Engenharia de Software - Unopar
 
 
 
-Desenvolvido neste Portfólio
+Algoritmos Desenvolvidos neste Portfólio no Programa VisualG
+
 
 1° Algoritmo:  Instruções => para o primeiro  algoritmo,   você  deverá  elaborar  o algoritmo   que   o  usuário informe a sua idade e caso a idade seja maior ou igual a 18, incluir a  mensagem “Maior de idade” e caso  contrário “Menor de idade”.   
  	2° Algoritmo:  Instruções => para  o  segundo  algoritmo  você deverá apresentar  o  resultado da potenciação, lembrando que a estrutura da potenciação é a seguinte: 
@@ -29,8 +30,8 @@ Modelo para executar o Algoritmo 1 – de Idade
 
 Algoritmo “idade”  
 Descrição: Neste algoritmo, o  usuário informa a sua idade, caso a idade seja maior ou igual a 18, incluir a  mensagem “Maior de idade” e caso  contrário será incluída a mensagem “Menor de idade”. (funções Maior de Idade e Menor de Idade)  
-Autora: Patrícia de Sousa Ribeiro  
-Data atual: 22/09/2023  
+
+
 Var 
 Idade: inteiro 
 Inicio 
@@ -49,8 +50,8 @@ Modelo para executar o Algoritmo 2 - Potenciação
  
 Algoritmo "potenciação"  
 Descrição: Neste algoritmo, os valores de base (a) e expoente(b) serão digitados e o programa mostrará o  resultado da potenciação (funções de potenciação 2^2, 2^3 e 2^4).  
-Autora: Patrícia de Sousa Ribeiro  
-Data atual: 22/09/2023  
+
+ 
 
 var
 a, b, contador, r: inteiro
